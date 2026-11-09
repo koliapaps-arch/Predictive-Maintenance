@@ -191,7 +191,7 @@ Predictive-Maintenance/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/KKOOLLIIAA/Predictive-Maintenance.git
+git clone https://github.com/koliapaps-arch/Predictive-Maintenance.git
 cd Predictive-Maintenance
 ```
 
